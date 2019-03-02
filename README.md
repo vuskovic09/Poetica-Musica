@@ -1,3 +1,2 @@
-# PoeticaMusica
+# Poetica-Musica
 The Poetica Musica - Eleanor Valkenburg
-Templates/Design
