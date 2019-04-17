@@ -1,0 +1,15 @@
+#main {
+    box-shadow: 0px 0px 80px #001100;
+}
+
+#nav {
+  background-color: #fff3cc;
+}
+
+section, #intro {
+  background-color: #FFF;
+}
+
+footer section {
+  background-color: transparent;
+}
