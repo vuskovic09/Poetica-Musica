@@ -2,8 +2,13 @@
     box-shadow: 0px 0px 80px #001100;
 }
 
-#nav {
+#nav, #nav ul li a.active, #main .spotlight .image, #main input[type="submit"], #main input[type="reset"], #main input[type="button"], #main .button, #main header.major h2:after {
   background-color: #fff3cc;
+  background-image: none;
+}
+
+#main .spotlight .image, #main .icon.major, #main .icon.major:before {
+  border-color: #fff3cc;
 }
 
 section, #intro {
