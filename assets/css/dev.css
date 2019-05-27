@@ -2,6 +2,10 @@
     box-shadow: 0px 0px 80px #001100;
 }
 
+#nav ul li a {
+  font-size: 22px;
+}
+
 #nav, #nav ul li a.active, #main .spotlight .image, #main input[type="submit"], #main input[type="reset"], #main input[type="button"], #main .button, #main header.major h2:after {
   background-color: #fff3cc;
   background-image: none;
