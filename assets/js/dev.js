@@ -1,3 +1,3 @@
 $(document).ready(function () {
-    $("#my-calendar").zabuto_calendar({language: "en"});
+  $("#my-calendar").zabuto_calendar({language: "en"});
 });
