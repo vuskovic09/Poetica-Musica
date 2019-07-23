@@ -1,7 +1,7 @@
 $(document).ready(function () {
   $("#my-calendar").zabuto_calendar({
       ajax: {
-        url: "data/events.json",
+        url: "assets/data/events.json",
         modal: true
       },
       today: true,

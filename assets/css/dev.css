@@ -41,6 +41,28 @@ div.zabuto_calendar .badge-today, div.zabuto_calendar div.legend span.badge-toda
     border-radius: 8px;
 }
 
+div.zabuto_calendar .badge-event {
+  color: #000;
+  background-color: #ffe9a3;
+  padding: 5%;
+  border-radius: 8px;
+}
+
+.modal-dialog {
+  padding-top: 9%;
+}
+
+.lead, .modal-footer, .modal-header, .modal-title {
+  color: #000;
+}
+
+.modal-header .close {
+    background-color: #1c7701;
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+}
+
 @media screen and (max-width: 1280px) {
   #nav ul li a {
     font-size: 0.9em;
