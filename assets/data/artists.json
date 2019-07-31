@@ -1,10 +1,101 @@
 [
   {
-    "name": "",
+    "name": "Eleanor Valkenburg",
     "img": {
       "src": "",
       "alt": ""
     },
-    "info": ""
+    "desc": "",
+    "bio": ""
+  },
+  {
+    "name": "Hayk Arsenyan",
+    "img": {
+      "src": "",
+      "alt": ""
+    },
+    "desc": "",
+    "bio": ""
+  },
+  {
+    "name": "Barry J. Crawford",
+    "img": {
+      "src": "",
+      "alt": ""
+    },
+    "desc": "",
+    "bio": ""
+  },
+  {
+    "name": "Oren Fader",
+    "img": {
+      "src": "",
+      "alt": ""
+    },
+    "desc": "",
+    "bio": ""
+  },
+  {
+    "name": "Eugene Moye",
+    "img": {
+      "src": "",
+      "alt": ""
+    },
+    "desc": "",
+    "bio": ""
+  },
+  {
+    "name": "Molly Morkoski",
+    "img": {
+      "src": "",
+      "alt": ""
+    },
+    "desc": "",
+    "bio": ""
+  },
+  {
+    "name": "Natasha Mitrovic",
+    "img": {
+      "src": "",
+      "alt": ""
+    },
+    "desc": "",
+    "bio": ""
+  },
+  {
+    "name": "Anna Marrethe Nilsen",
+    "img": {
+      "src": "",
+      "alt": ""
+    },
+    "desc": "",
+    "bio": ""
+  },
+  {
+    "name": "Jesus Reina",
+    "img": {
+      "src": "",
+      "alt": ""
+    },
+    "desc": "",
+    "bio": ""
+  },
+  {
+    "name": "Louise Schulman",
+    "img": {
+      "src": "",
+      "alt": ""
+    },
+    "desc": "",
+    "bio": ""
+  },
+  {
+    "name": "Niklas Walentin",
+    "img": {
+      "src": "",
+      "alt": ""
+    },
+    "desc": "",
+    "bio": ""
   }
 ]

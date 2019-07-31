@@ -41,6 +41,8 @@ footer section {
 
 .artistIMG {
   border-radius: 100%;
+  max-width: 150px;
+  max-height: 150px;
 }
 
 .contentB {
