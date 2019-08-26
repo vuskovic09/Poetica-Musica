@@ -3,8 +3,8 @@
     "date": "2019-09-28",
     "badge": true,
     "title": "Across The Centuries",
-    "body": "<p class='lead'>Some body text, detailing the artists and pieces played</p>",
-    "footer": "Footer text",
+    "body": "<p class='lead'><ul><li>Time and date: Saturday, September 28, 2019 at 8:00 PM</li><li>Artists: Louise Schulman, viola, cittern, viola d’amore and William Zito, guitar, lute</li><li>Works by Bach, Dowland, Piazzolla and others</li><li>Concert location: Orchard Barn of Old Westbury Gardens</li><li>Compositions that span various musical styles using period musicals instruments.</li></ul></p>",
+    "footer": "Please note that there will be no house/garden tour for this event",
     "classname": "eventSingle"
   },
   {
