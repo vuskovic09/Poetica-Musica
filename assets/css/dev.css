@@ -64,7 +64,7 @@ div.zabuto_calendar .badge-event {
 
 .modal-dialog {
   padding-top: 9%;
-  width: 65%
+  max-width: 65%
 }
 
 .lead, .modal-footer, .modal-header, .modal-title {
