@@ -1,8 +1,8 @@
 [
   {
-    "date": "2019-07-10",
+    "date": "2019-09-28",
     "badge": true,
-    "title": "Example concert",
+    "title": "Across The Centuries",
     "body": "<p class='lead'>Some body text, detailing the artists and pieces played</p>",
     "footer": "Footer text",
     "classname": "eventSingle"
