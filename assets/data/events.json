@@ -8,19 +8,20 @@
     "classname": "eventSingle"
   },
   {
-    "date": "2019-07-12",
+    "date": "2020-04-04",
     "badge": true,
-    "title": "Example concert",
-    "body": "<p class='lead'>Some body text, detailing the artists and pieces played</p>",
-    "footer": "Footer text",
+    "title": "Art of the Cello",
+    "body": "<p class='lead'><ul><li>Time and date: Saturday, April 4, 2020 at 8:00 PM</li><li>Artists:  Eleanor Valkenburg, soprano, Eugene Moye, cello, and Natasa Mitrovic¸ piano</li><li>Works by Faure, Franck, Debussy and others</li><li>Concert location: Red Ballroom of Old Westbury Gardens</li></ul></p>",
+    "footer": "A tour of the House will be conducted at 6:45 pm</br>A pre-concert talk at 7:30 pm
+",
     "classname": "eventSingle"
   },
   {
-    "date": "2019-07-03",
+    "date": "2019-05-02",
     "badge": true,
-    "title": "Example concert",
-    "body": "<p class='lead'>Some body text, detailing the artists and pieces played</p>",
-    "footer": "Footer text",
+    "title": "Viva España",
+    "body": "<p class='lead'><ul><li>Time and date: Saturday, May 2, 2020 at 8:00 PM</li><li>Artists: Jesus Reina, violin, Anna Margrethe Nilsen, violin, Hayk Arsenyan, piano</li><li>Works TBA</li><li>Concert Location: Red Ballroom Old Westbury Gardens</li></ul></p>",
+    "footer": "A tour of the House will be conducted at 6:45 pm</br>A pre-concert talk at 7:30 pm",
     "classname": "eventSingle"
   }
 ]
