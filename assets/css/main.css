@@ -3674,10 +3674,10 @@ input, select, textarea {
 		margin: 0 0 3em -2em;
 	}
 
-		#footer > * {
+		/* #footer > * {
 			width: calc(50% - 2em);
 			margin-left: 2em;
-		}
+		} */
 
 		#footer .copyright {
 			width: 100%;
