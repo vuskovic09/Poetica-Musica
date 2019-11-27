@@ -1,0 +1,16 @@
+/*
+Nav font < 1200
+Footer font < 1200
+Mobile & tablet
+Footer info
+*/
+
+@media only screen and (max-width: 1400px){
+    #nav ul li a {
+        font-size: 18px;
+    }
+
+    .footerList li a{
+        font-size: 16px;
+    }
+}
